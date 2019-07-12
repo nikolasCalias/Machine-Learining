@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+{% extends "base.html" %}
+    {% block body_block%}
+
+<br>
+<h4>&nbsp Select files for training</h4>
+
+<form method="POST" name = 'train' action="." enctype="multipart/form-data" class="form-horizontal form-inline">
+{% csrf_token %}
+  <input type="hidden" name="name" value="train">
+  <select name="recipients[]" multiple="multiple">
+
+    {% for i in listfiles %}
+    <option value = {{i}} name= {{ i }} class="fileUpload btn btn-primary">{{i}}</option>
+    {% endfor %}
+  </select>
+<input type = submit class="fileUpload btn btn-primary" value = "Submit">
+
+</form>
+
+
+
+
+        <br>
+<h4>&nbsp Select files for testing</h4>
+
+<form method="POST" name = 'test' action="." enctype="multipart/form-data" class="form-horizontal form-inline">
+{% csrf_token %}
+<input type="hidden" name="name" value="test">
+  <select name="recipients[]" multiple="multiple">
+
+    {% for i in listfiles %}
+    <option value = {{i}} name= {{ i }} class="fileUpload btn btn-primary">{{i}}</option>
+    {% endfor %}
+  </select>
+    <input type = submit class="fileUpload btn btn-primary" value = "Submit">
+
+</form>
+
+
+{% if fileselected1 %}
+
+<p></p>
+<h4>Training data files </h4>
+<p class="fileUpload">{{fileselected1}}</p>
+
+{%  endif %}
+
+
+{% if fileselected2 %}
+
+<p></p>
+<h4>Testing data files </h4>
+<p class="fileUpload">{{fileselected2}}</p>
+
+{%  endif %}
+
+{% endblock %}

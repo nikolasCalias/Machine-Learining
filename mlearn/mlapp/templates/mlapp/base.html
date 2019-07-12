@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Machine learning</title>
+    <!-- Latest compiled and minified CSS -->
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="{% static "css/style.css" %}"/>
+
+  <script src="https://cdn.plot.ly/plotly-latest.min.js" ></script>
+
+  </head>
+  <body>
+    <div class="container">
+    <nav class="navbar navbar-dark bg-dark">
+          <a class="nav-link" href="{% url 'mlapp:index' %}"> Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="{% url 'mlapp:upload' %}"> Upload <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="{% url 'mlapp:splitting' %}"> Data Selection <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="{% url 'mlapp:preprocessing' %}"> Preprocessing <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="{% url 'mlapp:modelling' %}"> Machine Learning <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="{% url 'admin:index' %}"> Admin <span class="sr-only">(current)</span></a>
+    </nav>
+    </div>
+
+    <div class="container">
+
+    {% block body_block %}
+    {# Anything outside of this will be inherited if you use extend.#}
+    {% endblock %}
+    </div>
+
+
+  </body>
+</html>

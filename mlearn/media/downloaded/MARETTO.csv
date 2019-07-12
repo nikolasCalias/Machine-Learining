@@ -1,0 +1,393 @@
+Year,Month,Date,Brand,Product_Gender,Style_Name,Color,Stock_No,Width,Size,Product_Class,Billing_Name,Pairs
+2019,1,01/25/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Savon Shoes Inc,1
+2019,1,01/25/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Savon Shoes Inc,1
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Savon Shoes Inc,1
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Alecs Shoe Store,1
+2019,1,01/30/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Richard's Shoes,2
+2019,1,01/30/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Richard's Shoes,1
+2019,2,02/13/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Roxanne's Birkenstock,1
+2019,2,02/20/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,R W Reed Company Inc,1
+2019,2,02/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Eva Bryn Shoetique,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Discount Shoe Store Dba/,3
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Williams Brothers,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Discount Shoe Store Dba/,3
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,110,Sh,Dillards Department Store Inc,2
+2019,2,02/22/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,080,Sh,Whim Shoe Shop Llc,2
+2019,2,02/25/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,060,Sh,Whim Shoe Shop Llc,1
+2019,3,03/03/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,G & S Inc Dba/,1
+2019,3,03/08/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,110,Sh,Zappos Merchandising Inc,4
+2019,3,03/08/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Zappos Merchandising Inc,7
+2019,3,03/08/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Zappos Merchandising Inc,5
+2019,3,03/12/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Parts Unknown,3
+2019,3,03/31/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Mara Shoes & Leather Fashions,1
+2019,4,04/03/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Teri Ann's Inc.,1
+2019,4,04/16/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Mobley-Mclean Shoe Co,1
+2019,4,04/16/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Mobley-Mclean Shoe Co,1
+2019,4,04/16/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Mobley-Mclean Shoe Co,1
+2019,4,04/16/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Mobley-Mclean Shoe Co,1
+2019,5,05/06/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Grasshopper Shop Of Rockland,1
+2019,5,05/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Dillards Department Store Inc,26
+2019,5,05/17/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Dillards Department Store Inc,79
+2019,5,05/17/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,085,Sh,Dillards Department Store Inc,50
+2019,5,05/17/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,095,Sh,Dillards Department Store Inc,33
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Savon Shoes Inc,1
+2019,1,01/30/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Richard's Shoes,2
+2019,1,01/30/2019,Sofft,F,Maretto,Grey,SF0021608,M,110,Sh,Richard's Shoes,1
+2019,2,02/13/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Roxanne's Birkenstock,2
+2019,2,02/20/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,R W Reed Company Inc,1
+2019,2,02/20/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,R W Reed Company Inc,1
+2019,2,02/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Eva Bryn Shoetique,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Williams Brothers,1
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,065,Sh,Dillards Department Store Inc,26
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,080,Sh,Dillards Department Store Inc,52
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Williams Brothers,2
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Discount Shoe Store Dba/,3
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Williams Brothers,2
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Dillards Department Store Inc,113
+2019,2,02/22/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,085,Sh,Whim Shoe Shop Llc,2
+2019,3,03/08/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Zappos Merchandising Inc,6
+2019,3,03/08/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Zappos Merchandising Inc,14
+2019,3,03/12/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Parts Unknown,4
+2019,3,03/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Bar Kar Inc,1
+2019,3,03/25/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Island Sport Llc,1
+2019,3,03/28/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Center Stage Fashions,1
+2019,3,03/31/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Mara Shoes & Leather Fashions,1
+2019,4,04/07/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/07/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/07/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/16/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Mobley-Mclean Shoe Co,1
+2019,4,04/16/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Mobley-Mclean Shoe Co,1
+2019,5,05/14/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Dillards Department Store Inc,90
+2019,5,05/14/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Dillards Department Store Inc,48
+2019,5,05/17/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Dillards Department Store Inc,88
+2019,5,05/17/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Dillards Department Store Inc,89
+2019,1,01/30/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Richard's Shoes,2
+2019,1,01/30/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Richard's Shoes,1
+2019,2,02/13/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Roxanne's Birkenstock,1
+2019,2,02/13/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Roxanne's Birkenstock,1
+2019,2,02/14/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Von Maur Inc,30
+2019,2,02/14/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Von Maur Inc,15
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,Williams Brothers,1
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,100,Sh,Discount Shoe Store Dba/,1
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Discount Shoe Store Dba/,1
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,110,Sh,Dillards Department Store Inc,15
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,110,Sh,Discount Shoe Store Dba/,1
+2019,2,02/22/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Goldberg's,1
+2019,2,02/22/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Goldberg's,1
+2019,2,02/22/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Goldberg's,1
+2019,2,02/25/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,070,Sh,Whim Shoe Shop Llc,1
+2019,3,03/03/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,G & S Inc Dba/,1
+2019,3,03/03/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,G & S Inc Dba/,1
+2019,3,03/08/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Zappos Merchandising Inc,14
+2019,3,03/08/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,085,Sh,Zappos Merchandising Inc,8
+2019,3,03/12/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Parts Unknown,4
+2019,3,03/20/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/03/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Teri Ann's Inc.,1
+2019,4,04/07/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/07/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/16/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Mobley-Mclean Shoe Co,1
+2019,4,04/16/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Mobley-Mclean Shoe Co,1
+2019,5,05/06/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Grasshopper Shop Of Rockland,1
+2019,5,05/14/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Dillards Department Store Inc,107
+2019,5,05/17/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Dillards Department Store Inc,102
+2019,5,05/17/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Dillards Department Store Inc,3
+2019,5,05/17/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Dillards Department Store Inc,48
+2019,5,05/17/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Dillards Department Store Inc,73
+2019,1,01/30/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Richard's Shoes,1
+2019,1,01/30/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Richard's Shoes,1
+2019,2,02/13/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,Roxanne's Birkenstock,1
+2019,2,02/13/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Roxanne's Birkenstock,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Dillards Department Store Inc,209
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Sikes & Kohn,2
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,090,Sh,Discount Shoe Store Dba/,2
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Discount Shoe Store Dba/,2
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Dillards Department Store Inc,206
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Dillards Department Store Inc,208
+2019,2,02/22/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,060,Sh,Whim Shoe Shop Llc,1
+2019,2,02/25/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,090,Sh,Whim Shoe Shop Llc,2
+2019,3,03/08/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,080,Sh,Zappos Merchandising Inc,9
+2019,3,03/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Bar Kar Inc,1
+2019,3,03/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Bar Kar Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/25/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Island Sport Llc,1
+2019,3,03/25/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Island Sport Llc,2
+2019,3,03/28/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Center Stage Fashions,1
+2019,3,03/31/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Mara Shoes & Leather Fashions,1
+2019,4,04/07/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/07/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/07/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/16/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Mobley-Mclean Shoe Co,1
+2019,4,04/16/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Mobley-Mclean Shoe Co,1
+2019,4,04/16/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Mobley-Mclean Shoe Co,1
+2019,5,05/06/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Grasshopper Shop Of Rockland,1
+2019,5,05/14/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Dillards Department Store Inc,78
+2019,5,05/14/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,065,Sh,Dillards Department Store Inc,58
+2019,5,05/17/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,075,Sh,Dillards Department Store Inc,61
+2019,5,05/17/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Dillards Department Store Inc,38
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Savon Shoes Inc,1
+2019,2,02/13/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Roxanne's Birkenstock,1
+2019,2,02/13/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Roxanne's Birkenstock,2
+2019,2,02/13/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Roxanne's Birkenstock,2
+2019,2,02/13/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,070,Sh,Roxanne's Birkenstock,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Discount Shoe Store Dba/,3
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Discount Shoe Store Dba/,3
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Sikes & Kohn,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Sikes & Kohn,1
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,085,Sh,Discount Shoe Store Dba/,2
+2019,2,02/25/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,075,Sh,Whim Shoe Shop Llc,2
+2019,2,02/25/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,095,Sh,Whim Shoe Shop Llc,1
+2019,3,03/03/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,G & S Inc Dba/,1
+2019,3,03/08/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Zappos Merchandising Inc,16
+2019,3,03/08/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Zappos Merchandising Inc,10
+2019,3,03/08/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,100,Sh,Zappos Merchandising Inc,5
+2019,3,03/20/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/07/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,Scioto Shoe Mart Inc,1
+2019,5,05/06/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Grasshopper Shop Of Rockland,1
+2019,5,05/14/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,090,Sh,Dillards Department Store Inc,76
+2019,5,05/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Dillards Department Store Inc,55
+2019,5,05/17/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Dillards Department Store Inc,51
+2019,5,05/17/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,100,Sh,Dillards Department Store Inc,31
+2019,1,01/25/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Savon Shoes Inc,1
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Alecs Shoe Store,1
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Savon Shoes Inc,1
+2019,1,01/30/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Richard's Shoes,2
+2019,2,02/13/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Roxanne's Birkenstock,2
+2019,2,02/13/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Roxanne's Birkenstock,1
+2019,2,02/13/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,075,Sh,Roxanne's Birkenstock,2
+2019,2,02/13/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,085,Sh,Roxanne's Birkenstock,2
+2019,2,02/14/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Von Maur Inc,18
+2019,2,02/20/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,R W Reed Company Inc,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,Dillards Department Store Inc,109
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Discount Shoe Store Dba/,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Williams Brothers,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Dillards Department Store Inc,200
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Dillards Department Store Inc,19
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,070,Sh,Discount Shoe Store Dba/,1
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,075,Sh,Dillards Department Store Inc,44
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,085,Sh,Dillards Department Store Inc,45
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,095,Sh,Dillards Department Store Inc,25
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,095,Sh,Discount Shoe Store Dba/,1
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Williams Brothers,1
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Williams Brothers,1
+2019,2,02/22/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Goldberg's,1
+2019,2,02/22/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,065,Sh,Whim Shoe Shop Llc,1
+2019,2,02/22/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,075,Sh,Whim Shoe Shop Llc,2
+2019,2,02/22/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,095,Sh,Whim Shoe Shop Llc,1
+2019,2,02/25/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,065,Sh,Whim Shoe Shop Llc,1
+2019,2,02/25/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,080,Sh,Whim Shoe Shop Llc,2
+2019,2,02/25/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,085,Sh,Whim Shoe Shop Llc,2
+2019,3,03/03/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,G & S Inc Dba/,1
+2019,3,03/08/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Zappos Merchandising Inc,9
+2019,3,03/12/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Parts Unknown,5
+2019,3,03/20/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/28/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Center Stage Fashions,1
+2019,4,04/03/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Teri Ann's Inc.,1
+2019,4,04/16/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Mobley-Mclean Shoe Co,1
+2019,5,05/14/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Dillards Department Store Inc,47
+2019,5,05/14/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Dillards Department Store Inc,88
+2019,5,05/14/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,100,Sh,Dillards Department Store Inc,57
+2019,5,05/17/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Dillards Department Store Inc,82
+2019,5,05/17/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Dillards Department Store Inc,41
+2019,1,01/25/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Savon Shoes Inc,1
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Alecs Shoe Store,1
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Alecs Shoe Store,1
+2019,1,01/30/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Richard's Shoes,2
+2019,2,02/13/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Roxanne's Birkenstock,1
+2019,2,02/14/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Von Maur Inc,30
+2019,2,02/14/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Von Maur Inc,30
+2019,2,02/14/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Von Maur Inc,15
+2019,2,02/20/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,R W Reed Company Inc,1
+2019,2,02/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Eva Bryn Shoetique,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Discount Shoe Store Dba/,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Williams Brothers,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Discount Shoe Store Dba/,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Sikes & Kohn,1
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,065,Sh,Discount Shoe Store Dba/,1
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Williams Brothers,2
+2019,2,02/22/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Goldberg's,1
+2019,3,03/08/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,070,Sh,Zappos Merchandising Inc,7
+2019,3,03/08/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Zappos Merchandising Inc,3
+2019,3,03/12/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Parts Unknown,5
+2019,3,03/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Bar Kar Inc,1
+2019,3,03/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Bar Kar Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/31/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Mara Shoes & Leather Fashions,1
+2019,3,03/31/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Mara Shoes & Leather Fashions,1
+2019,4,04/03/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Teri Ann's Inc.,1
+2019,4,04/03/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Teri Ann's Inc.,1
+2019,4,04/07/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Scioto Shoe Mart Inc,1
+2019,5,05/06/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Grasshopper Shop Of Rockland,1
+2019,5,05/14/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,060,Sh,Dillards Department Store Inc,51
+2019,5,05/14/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,110,Sh,Dillards Department Store Inc,5
+2019,5,05/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Dillards Department Store Inc,47
+2019,5,05/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Dillards Department Store Inc,27
+2019,5,05/17/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Dillards Department Store Inc,41
+2019,5,05/17/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,060,Sh,Dillards Department Store Inc,33
+2019,5,05/17/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,110,Sh,Dillards Department Store Inc,1
+2019,5,05/17/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Dillards Department Store Inc,77
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Alecs Shoe Store,1
+2019,1,01/30/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Richard's Shoes,2
+2019,1,01/30/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Richard's Shoes,1
+2019,2,02/13/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Roxanne's Birkenstock,1
+2019,2,02/14/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,Von Maur Inc,15
+2019,2,02/20/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,R W Reed Company Inc,1
+2019,2,02/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Eva Bryn Shoetique,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,Discount Shoe Store Dba/,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Sikes & Kohn,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Sikes & Kohn,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Williams Brothers,1
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,060,Sh,Dillards Department Store Inc,26
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Williams Brothers,1
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Discount Shoe Store Dba/,2
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,110,Sh,Williams Brothers,1
+2019,3,03/03/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,G & S Inc Dba/,1
+2019,3,03/08/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,Zappos Merchandising Inc,6
+2019,3,03/08/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Zappos Merchandising Inc,18
+2019,3,03/08/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,065,Sh,Zappos Merchandising Inc,3
+2019,3,03/08/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,075,Sh,Zappos Merchandising Inc,7
+2019,3,03/25/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Island Sport Llc,2
+2019,4,04/07/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Scioto Shoe Mart Inc,1
+2019,5,05/14/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Dillards Department Store Inc,6
+2019,5,05/14/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,080,Sh,Dillards Department Store Inc,106
+2019,5,05/14/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,085,Sh,Dillards Department Store Inc,97
+2019,5,05/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Dillards Department Store Inc,39
+2019,5,05/17/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,Dillards Department Store Inc,44
+2019,5,05/17/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,080,Sh,Dillards Department Store Inc,67
+2019,5,05/17/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Dillards Department Store Inc,68
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Savon Shoes Inc,1
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Alecs Shoe Store,2
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Alecs Shoe Store,1
+2019,1,01/30/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Richard's Shoes,1
+2019,2,02/14/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Von Maur Inc,15
+2019,2,02/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Eva Bryn Shoetique,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Sikes & Kohn,2
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,070,Sh,Dillards Department Store Inc,35
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,075,Sh,Discount Shoe Store Dba/,2
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,080,Sh,Discount Shoe Store Dba/,2
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Dillards Department Store Inc,108
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Dillards Department Store Inc,170
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Discount Shoe Store Dba/,3
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Williams Brothers,1
+2019,2,02/22/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,070,Sh,Whim Shoe Shop Llc,1
+2019,3,03/08/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,095,Sh,Zappos Merchandising Inc,5
+2019,3,03/08/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Zappos Merchandising Inc,9
+2019,3,03/08/2019,Sofft,F,Maretto,Grey,SF0021608,M,110,Sh,Zappos Merchandising Inc,4
+2019,3,03/20/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/03/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Teri Ann's Inc.,1
+2019,4,04/07/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/07/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/07/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Scioto Shoe Mart Inc,1
+2019,5,05/06/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Grasshopper Shop Of Rockland,1
+2019,5,05/14/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Dillards Department Store Inc,48
+2019,5,05/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Dillards Department Store Inc,27
+2019,5,05/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Dillards Department Store Inc,46
+2019,5,05/17/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,090,Sh,Dillards Department Store Inc,40
+2019,5,05/17/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Dillards Department Store Inc,40
+2019,1,01/25/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Savon Shoes Inc,1
+2019,1,01/30/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Richard's Shoes,1
+2019,2,02/13/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Roxanne's Birkenstock,2
+2019,2,02/13/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Roxanne's Birkenstock,1
+2019,2,02/14/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Von Maur Inc,18
+2019,2,02/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Eva Bryn Shoetique,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Williams Brothers,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Dillards Department Store Inc,294
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Discount Shoe Store Dba/,2
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Discount Shoe Store Dba/,2
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Discount Shoe Store Dba/,3
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Dillards Department Store Inc,117
+2019,2,02/22/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Goldberg's,1
+2019,3,03/08/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Zappos Merchandising Inc,10
+2019,3,03/08/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Zappos Merchandising Inc,8
+2019,3,03/20/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/25/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Island Sport Llc,1
+2019,3,03/28/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Center Stage Fashions,2
+2019,3,03/31/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Mara Shoes & Leather Fashions,1
+2019,3,03/31/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Mara Shoes & Leather Fashions,1
+2019,4,04/16/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Mobley-Mclean Shoe Co,1
+2019,5,05/14/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Dillards Department Store Inc,73
+2019,5,05/14/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,070,Sh,Dillards Department Store Inc,75
+2019,5,05/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,110,Sh,Dillards Department Store Inc,3
+2019,5,05/17/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Dillards Department Store Inc,40
+2019,5,05/17/2019,Sofft,F,Maretto,Grey,SF0021608,M,110,Sh,Dillards Department Store Inc,2
+2019,1,01/25/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Savon Shoes Inc,1
+2019,1,01/30/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Richard's Shoes,1
+2019,2,02/13/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,080,Sh,Roxanne's Birkenstock,2
+2019,2,02/20/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,R W Reed Company Inc,1
+2019,2,02/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Eva Bryn Shoetique,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Dillards Department Store Inc,117
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Sikes & Kohn,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Dillards Department Store Inc,249
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Williams Brothers,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Williams Brothers,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Dillards Department Store Inc,115
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Discount Shoe Store Dba/,1
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Dillards Department Store Inc,162
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Williams Brothers,2
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Discount Shoe Store Dba/,3
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Discount Shoe Store Dba/,2
+2019,2,02/22/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,100,Sh,Whim Shoe Shop Llc,1
+2019,3,03/08/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Zappos Merchandising Inc,18
+2019,3,03/08/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,060,Sh,Zappos Merchandising Inc,3
+2019,3,03/08/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,090,Sh,Zappos Merchandising Inc,9
+2019,3,03/08/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Zappos Merchandising Inc,3
+2019,3,03/08/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Zappos Merchandising Inc,8
+2019,3,03/12/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Parts Unknown,4
+2019,3,03/12/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Parts Unknown,4
+2019,3,03/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Bar Kar Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,110,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/28/2019,Sofft,F,Maretto,Black,SF0021601,M,075,Sh,Center Stage Fashions,2
+2019,3,03/31/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Mara Shoes & Leather Fashions,1
+2019,4,04/07/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/07/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/16/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Mobley-Mclean Shoe Co,1
+2019,5,05/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Dillards Department Store Inc,37
+2019,5,05/17/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,070,Sh,Dillards Department Store Inc,54
+2019,5,05/17/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Dillards Department Store Inc,59
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Savon Shoes Inc,1
+2019,1,01/25/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Alecs Shoe Store,1
+2019,1,01/30/2019,Sofft,F,Maretto,Black,SF0021601,M,100,Sh,Richard's Shoes,1
+2019,2,02/13/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Roxanne's Birkenstock,2
+2019,2,02/13/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,090,Sh,Roxanne's Birkenstock,2
+2019,2,02/13/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Roxanne's Birkenstock,1
+2019,2,02/14/2019,Sofft,F,Maretto,Black,SF0021601,M,110,Sh,Von Maur Inc,3
+2019,2,02/20/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,R W Reed Company Inc,1
+2019,2,02/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,060,Sh,Eva Bryn Shoetique,1
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Williams Brothers,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Dillards Department Store Inc,248
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Sikes & Kohn,2
+2019,2,02/21/2019,Sofft,F,Maretto,Black,SF0021601,M,095,Sh,Dillards Department Store Inc,123
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,090,Sh,Dillards Department Store Inc,33
+2019,2,02/21/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,100,Sh,Dillards Department Store Inc,24
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Dillards Department Store Inc,118
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Dillards Department Store Inc,247
+2019,2,02/21/2019,Sofft,F,Maretto,Grey,SF0021608,M,090,Sh,Williams Brothers,2
+2019,2,02/22/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,090,Sh,Whim Shoe Shop Llc,2
+2019,2,02/25/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,100,Sh,Whim Shoe Shop Llc,1
+2019,3,03/08/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Zappos Merchandising Inc,7
+2019,3,03/08/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Zappos Merchandising Inc,5
+2019,3,03/12/2019,Sofft,F,Maretto,Grey,SF0021608,M,070,Sh,Parts Unknown,4
+2019,3,03/12/2019,Sofft,F,Maretto,Grey,SF0021608,M,110,Sh,Parts Unknown,1
+2019,3,03/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Bar Kar Inc,2
+2019,3,03/20/2019,Sofft,F,Maretto,Black,SF0021601,M,070,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,075,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,085,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/20/2019,Sofft,F,Maretto,Grey,SF0021608,M,095,Sh,Scioto Shoe Mart Inc,1
+2019,3,03/25/2019,Sofft,F,Maretto,Black,SF0021601,M,085,Sh,Island Sport Llc,1
+2019,3,03/31/2019,Sofft,F,Maretto,Grey,SF0021608,M,065,Sh,Mara Shoes & Leather Fashions,1
+2019,4,04/07/2019,Sofft,F,Maretto,Grey,SF0021608,M,080,Sh,Scioto Shoe Mart Inc,1
+2019,4,04/16/2019,Sofft,F,Maretto,Black,SF0021601,M,065,Sh,Mobley-Mclean Shoe Co,1
+2019,4,04/16/2019,Sofft,F,Maretto,Black,SF0021601,M,080,Sh,Mobley-Mclean Shoe Co,1
+2019,5,05/14/2019,Sofft,F,Maretto,Black,SF0021601,M,060,Sh,Dillards Department Store Inc,45
+2019,5,05/14/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,075,Sh,Dillards Department Store Inc,91
+2019,5,05/14/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,095,Sh,Dillards Department Store Inc,59
+2019,5,05/14/2019,Sofft,F,Maretto,Grey,SF0021608,M,100,Sh,Dillards Department Store Inc,26
+2019,5,05/17/2019,Sofft,F,Maretto,Black,SF0021601,M,090,Sh,Dillards Department Store Inc,69
+2019,5,05/17/2019,Sofft,F,Maretto,Cordovan,SF0021600,M,065,Sh,Dillards Department Store Inc,35
